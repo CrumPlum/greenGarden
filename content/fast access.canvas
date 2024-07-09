@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"23dcbfa6443fe246","x":662,"y":-209,"width":400,"height":400,"type":"file","file":"notes/НИЗЬКИЙ ТЕСТОСТЕРОН, ЗАМІСНА ТЕРАПІЯ, ЖІНОЧІ ГОРМОНИ.md"},
+		{"type":"file","file":"_index.md","id":"f80e8a04c37ce630","x":-499,"y":-446,"width":400,"height":837},
+		{"type":"file","file":"private/🎨 weeks in color.md","id":"dfbee3caad3a76f4","x":-82,"y":-446,"width":400,"height":400},
+		{"id":"0d230304748e9d9f","type":"file","file":"private/⏩ fast access - створені сьогодні - останні зміни 15 нотаток.md","x":-82,"y":-9,"width":400,"height":400},
+		{"id":"c9cd5ab4b5d221e2","x":612,"y":-246,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[]
+}
