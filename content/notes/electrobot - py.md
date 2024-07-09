@@ -6,10 +6,10 @@ tags:
 date: 2024-07-05 17:56
 ---
 Links:  
-Безкоштовний хостинг [https://youtu.be/7mMrDIZWfcA?si=UdykvrunFKYzDpBF](https://youtu.be/7mMrDIZWfcA?si=UdykvrunFKYzDpBF)
-стаття хабр [link](https://habr.com/ru/articles/709314/) 
+Безкоштовний хостинг [https://youtu.be/7mMrDIZWfcA?si=UdykvrunFKYzDpBF](https://youtu.be/7mMrDIZWfcA?si=UdykvrunFKYzDpBF)  
+стаття хабр [link](https://habr.com/ru/articles/709314/)  
 сайт с запуском бота [link](https://replit.com/)  
-Робота по розкладу [https://youtu.be/OQLV7p_rd7o?si=qxuKtJdTzgVSGGfd](https://youtu.be/OQLV7p_rd7o?si=qxuKtJdTzgVSGGfd)
+Робота по розкладу [https://youtu.be/OQLV7p_rd7o?si=qxuKtJdTzgVSGGfd](https://youtu.be/OQLV7p_rd7o?si=qxuKtJdTzgVSGGfd)  
 —
 
 ```
@@ -103,8 +103,8 @@ if __name__ == '__main__':
 
 ```
 
-
 качає с сайту обленерго скрін відключень і кидає на роб стіл
+
 ```
 import os
 import requests
@@ -199,5 +199,3 @@ if __name__ == '__main__':
 
 
 ```
-
-

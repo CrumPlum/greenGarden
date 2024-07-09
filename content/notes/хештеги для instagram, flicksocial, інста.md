@@ -8,7 +8,7 @@ date: 2023-12-12 12:07
 Links:  
 [[notes/zero/00 animation|AE]]  
 [[instagram]]  
-[link](https://www.flick.social/app/explore?view=groups&hashtag=ukraineartist)  — сайт для пошуку оптимальних хештегів
+[link](https://www.flick.social/app/explore?view=groups&hashtag=ukraineartist)  — сайт для пошуку оптимальних хештегів  
 —
 
 ## основні

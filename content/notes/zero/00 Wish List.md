@@ -12,13 +12,12 @@ free and happy [link](https://youtu.be/SbCx57gggpU?si=gNGbsemiWCjlRXCf&t=898)  ,
 —  
 (по пріоритету на покупку та бажання купити)  
 
-- [ ] https://rozetka.com.ua/oneplus-5011101198/p310598098/ Мобільний телефон OnePlus Nord 8/128 GB Gray Onyx (5011101198)
-- [ ] Nord2 256 https://kvshop.com.ua/smartfony/oneplus/oneplus-nord-2-12-256gb-blue-haze-dn2101.html
+- [x] ~~https://rozetka.com.ua/oneplus-5011101198/p310598098/ Мобільний телефон OnePlus Nord 8/128 GB Gray Onyx (5011101198)~~
+- [x] Nord2 256 https://kvshop.com.ua/smartfony/oneplus/oneplus-nord-2-12-256gb-blue-haze-dn2101.html
 
 
 - [ ] перехідник на монік  
 	https://rozetka.com.ua/rztk-8800356876449/p316088995/
-
 
 - [ ] Мишка Hator Pulsar Wireless [link](https://ek.ua/ua/prices/hator-pulsar-wireless/) 
 - [ ] стоячий стіл [link](https://rozetka.com.ua/rztk_edu_1210b/p341268052/) , [hator](https://comfy.ua/ua/stol-komp-juternyj-hator-vast-pro-htd-050-black.html)  , [обзор на хатор](https://youtu.be/W37nGGEhWdk?si=XrQr8gXkyBv12dC7)  
@@ -27,10 +26,10 @@ free and happy [link](https://youtu.be/SbCx57gggpU?si=gNGbsemiWCjlRXCf&t=898)  ,
 	https://mechkeys.com/products/ironcat-hpc02-hpc02-pro-hpc02m-pro-mouse?variant=44065378173151
 
 
-- [ ] Samsung Galaxy Note 10+ [link](https://allo.ua/ru/catalogsearch/result/?q=Samsung%20Galaxy%20Note%2010%2B)  
-- [ ] OnePlus Nord [link](https://ek.ua/ua/ONEPLUS-NORD-128GB.htm)  
-- [ ] Планшет Apple iPad 2021 64 ГБ [link](https://ek.ua/ua/APPLE-IPAD-2021-64GB.htm#price-charts)  
-- [ ] Смартфон Google Pixel 7a 128 ГБ  [link](https://ek.ua/ua/GOOGLE-PIXEL-7A.htm)  
+- [x] OnePlus Nord [link](https://ek.ua/ua/ONEPLUS-NORD-128GB.htm)  
+- [ ] ~~Samsung Galaxy Note 10+ [link](https://allo.ua/ru/catalogsearch/result/?q=Samsung%20Galaxy%20Note%2010%2B)  ~~
+- [ ] ~~Планшет Apple iPad 2021 64 ГБ [link](https://ek.ua/ua/APPLE-IPAD-2021-64GB.htm#price-charts)  ~~
+- [ ] ~~Смартфон Google Pixel 7a 128 ГБ  [link](https://ek.ua/ua/GOOGLE-PIXEL-7A.htm)  ~~
 
 
 

@@ -19,13 +19,14 @@ cd C:\Users\Admin\Desktop\Python
   ~~~
 
 Запкустить програму:
+
 ```
 python main.py
 ```
 
-
 //компеляция файлов(в exe):  
 надо установить 
+
 ```
 pip install pyinstaller
 ```
@@ -34,28 +35,36 @@ pip install pyinstaller
 pyinstaller -F test.py
 ```
 
-
 ізольоване середовище
 
 ```
 python -m venv myenv
 ```
+
 встановити політику виконання
+
 ```
 Set-ExecutionPolicy RemoteSigned
 ```
+
 запустити віртуальне середовище
+
 ```
 myenv\Scripts\activate
 ```
+
 подивитися версії пакетов
+
 ```
 pip freeze
 ```
+
 перевстановити пакет менеджерів
+
 ```
 pip install --force-reinstall -v "aiogram==2.20.0"
 ```
+
 ==os.system( 'pause' ) пауза елегантная в программе==
 
 25.04.2021 / 1923  
@@ -82,7 +91,7 @@ from math import *
 Zero-Links  
 [00 Python](00%20Python.md)
 
-12
+12  
 —  
 Links  
 https://t.me/memsdigital/52

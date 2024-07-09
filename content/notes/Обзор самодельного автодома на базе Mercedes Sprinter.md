@@ -6,8 +6,8 @@ tags:
 date: 2024-03-22 08:21
 ---
 Links:  
-[[notes/zero/11 traveling around the world - camper|кемпер]]
-https://www.youtube.com/watch?v=G8KE8vcgo4A
+[[notes/zero/11 traveling around the world - camper|кемпер]]  
+https://www.youtube.com/watch?v=G8KE8vcgo4A  
 —
 
 сам зробив базі спрінтера, канал про це

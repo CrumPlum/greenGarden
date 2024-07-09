@@ -1,49 +1,56 @@
 ---
 title: "portfolio"
-Alias: 
+Alias: порфоліо, portfolio
 tags:
 - green/seed
 date: 2024-07-09 19:54
 ---
 Links:  
-
+[portfolio animations](https://youtu.be/k-lHXxvwRXk?si=7lquwO6JGqNONLZk)  
+[GitHub](https://github.com/CrumPlum)  
 —
-
 # **Portfolio**
 
-**Name:** Oleksandr Kostyriev
+**Name:** Oleksandr Kostyriev  
+Nickname: CrumPlum
 
 ---
-I am a skilled motion designer and Python coder with a strong background in computer science. My expertise spans across multiple domains, including motion graphics, programming, and data analysis. I have a profound command of the Adobe Creative Suite, particularly Adobe Illustrator (AI) and Adobe After Effects (AE), alongside proficiency in Microsoft Excel, PowerPoint, and Word. My educational journey at Kharkiv National Automobile and Highway University (KhNADU) has equipped me with a solid foundation in programming and software development.
+I am a motion designer and Python coder with a strong background in computer science. My expertise spans across multiple domains, including motion graphics, programming, and data analysis. I have a profound command of the Adobe package: particularly Adobe After Effects (AE) and Adobe Illustrator (AI), alongside proficiency in Premiere Pro (PP), Sony Vegas Pro.  
+I have a passion for cartoons. I especially like Disney and Pixar cartoons.
 
 ---
 
-**Education:**
+**Education:**  
+My educational journey at Kharkiv National Automobile and Highway University (KhNADU) has equipped me with a solid foundation in programming and software development. University taught me how to learn and comprehend new things.
 
-**Kharkiv National Automobile and Road University**, Faculty of Mechanics
-(2015-2020) — Master
-Kharkiv National Automobile and Road University, Mechanical Faculty
+**Kharkiv National Automobile and Road University**, Faculty of Mechanics  
+(2015-2020) — Master  
+Kharkiv National Automobile and Road University, Mechanical Faculty  
 (2020-2021)— Bachelor of Computer Science
 
 ---
 
-**Instruments**
-I am a fast learner with a computer science degree. Computer skills from
-childhood. Improved knowledge at the university. Knowledge of specialized
-programs: Adobe package (Photoshop, After Effects, Premiere Pro), AutoCad,
-Obsidian
+**Instruments**  
+I am a fast learner with a computer science degree. Computer skills from  
+childhood. Improved knowledge at the university. Knowledge of specialized  
+programs: Adobe package (Photoshop, After Effects, Premiere Pro), AutoCad,  
+Obsidian, Microsoft Excel, Microsoft PowerPoint, Microsoft Word.  
+I like to use mini programs to speed up work (my hobby is to find such programs and learn to use them).
 
 ---
 
 **Technical Skills:**
 
-- **Motion Design:**
+- **Design:**
     - Adobe After Effects (AE)
     - Adobe Illustrator (AI)
     - Adobe Premiere Pro
     - Adobe Photoshop
+    - Sony Vegas Pro
+    - Figma
 - **Programming:**
     - Python
+    - Auto Hotkey
     - JavaScript
     - HTML/CSS
 - **Office Applications:**
@@ -55,9 +62,9 @@ Obsidian
 
 **WORK EXPERIENCE**
 
-March 2021 — November 2021 (9 months)
-Worked as a call center operator for consultation and sales of cars (Accepted incoming calls, attracted potential customers, informed about the purchase of a car, provided advice on placing ads, conducted questionnaires and surveys of customers.)
-June 2019 — March 2020 (10 months)
+March 2021 — November 2021 (9 months)  
+Worked as a call center operator for consultation and sales of cars (Accepted incoming calls, attracted potential customers, informed about the purchase of a car, provided advice on placing ads, conducted questionnaires and surveys of customers.)  
+June 2019 — March 2020 (10 months)  
 Worked as a repairman for network equipment. (Working with network equipment drivers and their settings, Windows 7 drivers) On which provided user support by providing technical assistance to end-users, helping them with hardware, software, and network-related issues, and troubleshooting problems they encounter.
 
 ---
@@ -69,36 +76,12 @@ _January 2022 - Present_
 
 - Created engaging motion graphics and visual effects for various clients.
 - Utilized Adobe After Effects and Illustrator to develop high-quality animations.
-- Collaborated with clients to understand project requirements and deliver customized solutions.
 
 **Python Developer | Freelance**  
-_2020 - Present_
+_2019 - 2021_
 - Developed automation scripts and data analysis tools using Python.
 - Created dynamic visualizations and interactive dashboards for data presentation.
 - Worked on various projects involving web scraping, data cleaning, and machine learning.
-
----
-
-**Projects:**
-
-**1. Animated Explainer Videos:**
-- Designed and animated explainer videos for startups and businesses using Adobe After Effects.
-- Implemented creative storytelling techniques to deliver complex ideas in a simple and engaging manner.
-
-**2. Data Visualization Dashboard:**
-- Developed an interactive data visualization dashboard using Python and Excel.
-- Visualized key metrics and trends for a financial analysis project, aiding in data-driven decision-making.
-
-**3. AI-Powered Automation Tools:**
-- Built AI-powered automation tools to streamline repetitive tasks and improve efficiency.
-- Utilized machine learning algorithms to develop predictive models for various applications.
-
----
-
-**Certifications:**
-- Adobe Certified Expert in After Effects
-- Python for Data Science (Coursera)
-- Advanced Excel Skills (Udemy)
 
 ---
 
