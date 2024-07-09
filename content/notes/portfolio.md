@@ -104,6 +104,7 @@ _2020 - Present_
 
 **Contact:**
 - Email: `alex.crumplum@gmail.com`
-- Portfolio (animations): [youtube](https://youtu.be/JPJMEBvkEOw)
-- My pages `animation info` — [[notes/zero/00 animation|00 animation]] `https://crumplum.github.io/greenGardenCrumPlum/notes/zero/00-animation` 
-- 
+- Portfolio (animation): [youtube](https://youtu.be/k-lHXxvwRXk)
+- My pages `animation info` — [[notes/zero/00 animation|00 animation]]
+	- `https://crumplum.github.io/greenGardenCrumPlum/notes/zero/00-animation` 
+- TG: @CrumPlum
