@@ -12,7 +12,7 @@ Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility 
 ## Sponsors
 
 <p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
+  <a href="123">
+    <img src="12" />
   </a>
 </p>
