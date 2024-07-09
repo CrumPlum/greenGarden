@@ -3,6 +3,7 @@ title: "додатки"
 Alias: додатки, programms, прилож
 date: 2023-04-11 11:00
 ---
+[[notes/zero/20 Computer|20 Computer]]
 
 Додаток для клавіатури  
 [AHK](https://www.autohotkey.com/) — [мій AHK файл](https://drive.google.com/file/d/1q28CUQOcXu58yCAi21JLKbTtFy4tYVxp/view?usp=sharing)
@@ -32,4 +33,4 @@ Adobe
 [Obsidian](https://obsidian.md/)  
 [мій обсідіан](https://crumplum.github.io/greenGardenCrumPlum/)  
 
-
+чорна [[notes/темна тема google chrome|тема]] в гугл хром

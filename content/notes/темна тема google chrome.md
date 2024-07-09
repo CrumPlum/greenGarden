@@ -1,12 +1,12 @@
 ---
 title: "темна тема google chrome"
-Alias: 
+Alias: themes, нічь, тема
 tags:
 - green/seed
 date: 2024-07-10 00:23
 ---
 Links:  
-
+[[notes/programms - додатки|programms]]
 —  
 в строчці зверху написати 
 

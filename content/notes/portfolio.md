@@ -5,7 +5,7 @@ tags:
 - green/seed
 date: 2024-07-09 19:54
 ---
-Links:  
+Links:  [[notes/zero/20 Creation|20 Creation]]
 [portfolio animations](https://youtu.be/k-lHXxvwRXk?si=7lquwO6JGqNONLZk)  
 [GitHub](https://github.com/CrumPlum)  
 —
