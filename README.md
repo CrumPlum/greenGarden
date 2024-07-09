@@ -1,18 +1,14 @@
-# Quartz v4
+# GreenGarden
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Hi! I’m Alex [CrumPlum](https://www.youtube.com/channel/UCHts1E2GLIjuNWEBcON_wpA). You came across my notes, many call them - green garden. They’re kind of strange, so some context might help.  
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+These notes are mostly written for myself: they’re roughly my thinking environment. But I’m sharing them publicly as an experiment. If a note seems confusing or under-explained, it’s probably because I didn’t write it for you! Sorry—that’s sort of an essential tension of this experiment. My system is based on the Zettelkasten system with modifications by other members as well as my own.  
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+I'm from Ukraine, so I take notes in Ukrainian, but even if you don't know the language, there is a translator and the meaning of the notes and tips can be understood in any language.  
+Start from the HOME page, here is the [CrumPlum's green garden](https://crumplum.github.io/greenGardenCrumPlum/)  
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+PS: Now this is my own initiative, but if I develop it and I need to live - this is where Patreon will appear  
 
-## Sponsors
+I use [Obsidian](https://obsidian.md/) for my own use, and [Github](https://github.com/) and Quartz for posting to the Internet  
 
-<p align="center">
-  <a href="123">
-    <img src="12" />
-  </a>
-</p>
+If you want to write to me - my tg - @CrumPlum
