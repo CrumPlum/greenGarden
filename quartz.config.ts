@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "ua-UA",
+    locale: "en-US",
     baseUrl: "greengarden.crumplum",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
