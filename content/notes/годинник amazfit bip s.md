@@ -7,7 +7,7 @@ date: 2023-08-04 10:59
 ---
 Links:  
 [[notes/zero/20 Computer]]  
-[[notes/zero/00 Wish List]]  
+[[notes/zero/11 Wish List]]  
 —  
 листок amazfit bip s (для огляду: питання при покупці годинника)
 - чи натискається кнопка рукою (так)

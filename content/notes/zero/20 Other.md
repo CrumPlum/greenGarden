@@ -19,7 +19,7 @@ Zero-Links & Links:
 
 - [[notes/zero/00 наука]]  
 
-- [[notes/zero/00 Wish List]]
+- [[notes/zero/11 Wish List]]
 
 - [[notes/zero/00 історія]]
 

@@ -1,5 +1,5 @@
 ---
-title: "00 Wish List"
+title: "11 Wish List"
 Alias: купити, хотілки, техніка
 date: 25.03.2023 / 1549  
 ---

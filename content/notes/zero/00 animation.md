@@ -9,9 +9,11 @@ Zero-Links & Links:
 Посил на МОЄ ВЕЛИКЕ СХОВИЩЕ ІНФИ ПО АНІМАЦІЇ  
 [miro - ADOBE: AI, AE, Photoshop, саморозвиток](https://miro.com/app/board/uXjVMaVU7UU=/?share_link_id=262647295884)
 
-[[notes/After Effects - гарячки]]
-
 [[notes/12 принципів анімації]]  — план відео по Волту ДІснею, 
+
+[[notes/список законів та формул, які можуть бути корисні для аніматора|список законів та формул, які можуть бути корисні для аніматора]]
+
+[[notes/After Effects - гарячки]]
 
 [[private/{За що можна любити мультик}.canvas]]
 
@@ -52,5 +54,5 @@ blender
 [mc bess](https://www.youtube.com/@mcbess/videos)  
 Про українську анімацію  
 [Batat-TV](https://www.youtube.com/@batattv/videos)  
-Про кіно  
+Про кіно та сценаристику  
 [фінчер кубриком](https://www.youtube.com/@fincherkubrykom/videos)

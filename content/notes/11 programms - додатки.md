@@ -1,5 +1,5 @@
 ---
-title: "додатки"
+title: "11 programms - додатки"
 Alias: додатки, programms, прилож
 date: 2023-04-11 11:00
 ---
