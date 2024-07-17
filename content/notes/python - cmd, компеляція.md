@@ -8,16 +8,15 @@ date: 2023-08-04 10:59
 Links:  
 21.04.2021 / 2017  
 [[notes/zero/00 Python]]  
-Учим Python за 1 час!  Профессионала (Хауди Хо)  
-[link](https://www.youtube.com/watch?v=fp5-XQFr_nk)  
 —  
+---> [[notes/сервер google cloud та py|сервер google cloud та py]]
 
+---
 ==//cmd як компелювати через cmd (прогу в exe)==  
 //зайти в директорію  
 ~~~
 cd C:\Users\Admin\Desktop\Python
   ~~~
-
 Запкустить програму:
 
 ```
@@ -31,17 +30,21 @@ python main.py
 pip install pyinstaller
 ```
 
+в exe
+
 ```
 pyinstaller -F test.py
 ```
 
-ізольоване середовище
+---
+ізольоване середовище  
+(після обов'язково зайти - 'myenv/scripts/activate')
 
 ```
 python -m venv myenv
 ```
 
-встановити політику виконання
+встановити політику виконання (в power shel)
 
 ```
 Set-ExecutionPolicy RemoteSigned
@@ -65,33 +68,24 @@ pip freeze
 pip install --force-reinstall -v "aiogram==2.20.0"
 ```
 
-==os.system( 'pause' ) пауза елегантная в программе==
+явки, команди  
+---> [[notes/сервер google cloud та py|сервер google cloud та py]]
 
-25.04.2021 / 1923  
+---
 
+==os.system( 'pause' ) пауза елегантная в программе==  
 Tags:  пауза pause ос os  
-— @@  
 /#Закрытие программы при нажатии клавиши для консоли	
 
-```ctrl+c
-
-
+```
 import os
 os.system( 'pause' )
-
 ```
 
 вместо  
 qwe= input('  ')
 
-и...  
-from math import *  
-импорт других библиотек  
-—  
-Zero-Links  
-[00 Python](00%20Python.md)
-
-12  
-—  
-Links  
-https://t.me/memsdigital/52
+  
+## інші посилання:
+Учим Python за 1 час!  Профессионала (Хауди Хо)  
+[link](https://www.youtube.com/watch?v=fp5-XQFr_nk)  

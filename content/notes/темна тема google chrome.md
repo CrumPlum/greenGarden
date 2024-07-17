@@ -1,6 +1,6 @@
 ---
 title: "темна тема google chrome"
-Alias: themes, нічь, тема
+Alias: themes, нічь, тема, flag
 tags:
 - green/seed
 date: 2024-07-10 00:23

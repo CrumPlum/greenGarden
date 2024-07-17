@@ -1,6 +1,6 @@
 ---
 title: "11 programms - додатки"
-Alias: додатки, programms, прилож
+Alias: додатки, programms, прилож, програми
 date: 2023-04-11 11:00
 ---
 [[notes/zero/20 Computer|20 Computer]]
