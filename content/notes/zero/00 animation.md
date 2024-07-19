@@ -42,6 +42,9 @@ Zero-Links & Links:
 
 ## youtube канали:
 
+Музика з фільмів, без авторських. Krutikov Music - YouTube сказав мені [[notes/zero/@ Даніїл Sandy|@ Даніїл Sandy]] від @cut the crab
+[Krutikov Music](https://www.youtube.com/@KrutikovMusic/videos)
+
 навчання AE для новачків  
 [Edit Cat](https://www.youtube.com/@editcat/videos)  
 Різні AE трюки високого рівня  

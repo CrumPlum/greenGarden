@@ -53,7 +53,7 @@ ls
 ```
 создать вірт середовище
 ```
-python3 -m venv env
+python3 -m venv venv
 ```
 
 ```
@@ -62,6 +62,10 @@ source venv/bin/activate
 //смотрим библиотеки и номера (через venv- script/activate) 
 ```
 pip freeze
+```
+для WIN
+```
+python -m pip freeze
 ```
 //запаковываем сюда 
 ```
