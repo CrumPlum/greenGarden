@@ -12,62 +12,56 @@ Links:
 ---> [[notes/сервер google cloud та py|сервер google cloud та py]]
 
 ---
-==//cmd як компелювати через cmd (прогу в exe)==  
-//зайти в директорію  
-~~~
-cd C:\Users\Admin\Desktop\Python
-  ~~~
 
-<span style="color:rgb(245, 245, 245)">Запустить</span> <span style="color:rgb(245, 245, 245)"><span style="color:rgb(245, 245, 245)"><span style="color:rgb(245, 245, 245)"></span></span></span>програму:
+<span style="color:rgb(108, 66, 193)">Запустити програму:</span>
 ```
 python main.py
 ```
 
-//компеляция файлов(в exe):  
-<span style="color:rgb(237, 47, 117)">треба</span> <span style="color:rgb(245, 235, 76)">встановити</span>
+<span style="color:rgb(242, 235, 84)">cmd як компелювати через cmd (прогу в exe)  (win)</span>
+зайти в директорію  
+~~~
+cd C:\Users\Admin\Desktop\Python
+  ~~~
 
+
+треба встановити
 ```
 pip install pyinstaller
 ```
-
-в exe
-
+py в exe
 ```
 pyinstaller -F test.py
 ```
 
 ---
-ізольоване середовище  
+<span style="color:rgb(242, 235, 84)">ізольоване середовище  </span>
 (після обов'язково зайти - 'myenv/scripts/activate')
-
 ```
 python -m venv myenv
 ```
 
 встановити політику виконання (в power shel)
-
 ```
 Set-ExecutionPolicy RemoteSigned
 ```
 
 запустити віртуальне середовище
-
 ```
 myenv\Scripts\activate
 ```
+
 установити пакети з файлу `requirements.txt`
 ```
 pip install -r requirements.txt
 ```
 
-
-подивитися версії пакетов
+<span style="color:rgb(57, 196, 239)">як подивитися версії пакетов</span>
 ```
 pip freeze
 ```
 
-перевстановити пакет менеджерів
-
+<span style="color:rgb(57, 196, 239)">перевстановити пакет менеджерів</span>
 ```
 pip install --force-reinstall -v "aiogram==2.20.0"
 ```
@@ -77,16 +71,14 @@ pip install --force-reinstall -v "aiogram==2.20.0"
 
 ---
 
-==os.system( 'pause' ) пауза елегантная в программе==  
-Tags:  пауза pause ос os  
-/#Закрытие программы при нажатии клавиши для консоли	
-
+<span style="color:rgb(242, 235, 84)">os.system( 'pause' ) пауза елегантна у програмі  </span>
+Закриття програми при натисканні клавіші консолі	
 ```
 import os
 os.system( 'pause' )
 ```
 
-вместо  
+замість цього  
 qwe= input('  ')
 
   
