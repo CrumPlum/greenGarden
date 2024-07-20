@@ -1,6 +1,6 @@
----
+<span style="color:rgb(245, 245, 245)"><span style="color:rgb(245, 245, 245)"><span style="color:rgb(245, 245, 245)"><span style="color:rgb(245, 245, 245)"></span></span></span></span>---
 title: "python - cmd, компеляція"
-Alias: exe, cmd, py
+Alias: py, exe, cmd, пу
 tags:
 - green/seed
 date: 2023-08-04 10:59
@@ -17,14 +17,14 @@ Links:
 ~~~
 cd C:\Users\Admin\Desktop\Python
   ~~~
-Запкустить програму:
 
+<span style="color:rgb(245, 245, 245)">Запустить</span> <span style="color:rgb(245, 245, 245)"><span style="color:rgb(245, 245, 245)"><span style="color:rgb(245, 245, 245)"></span></span></span>програму:
 ```
 python main.py
 ```
 
 //компеляция файлов(в exe):  
-надо установить 
+<span style="color:rgb(237, 47, 117)">треба</span> <span style="color:rgb(245, 235, 76)">встановити</span>
 
 ```
 pip install pyinstaller
@@ -55,9 +55,13 @@ Set-ExecutionPolicy RemoteSigned
 ```
 myenv\Scripts\activate
 ```
+установити пакети з файлу `requirements.txt`
+```
+pip install -r requirements.txt
+```
+
 
 подивитися версії пакетов
-
 ```
 pip freeze
 ```

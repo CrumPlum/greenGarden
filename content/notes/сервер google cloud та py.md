@@ -1,6 +1,6 @@
 ---
 title: "сервер google cloud та py"
-Alias: google, py, sshm linux
+Alias: google, sshm linux
 tags:
 - green/seed
 date: 2024-07-16 02:06
