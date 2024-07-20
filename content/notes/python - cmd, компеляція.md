@@ -1,4 +1,4 @@
-<span style="color:rgb(245, 245, 245)"><span style="color:rgb(245, 245, 245)"><span style="color:rgb(245, 245, 245)"><span style="color:rgb(245, 245, 245)"></span></span></span></span>---
+---
 title: "python - cmd, компеляція"
 Alias: py, exe, cmd, пу
 tags:
@@ -13,12 +13,12 @@ Links:
 
 ---
 
-<span style="color:rgb(108, 66, 193)">Запустити програму:</span>
+Запустити програму:
 ```
 python main.py
 ```
 
-<span style="color:rgb(242, 235, 84)">cmd як компелювати через cmd (прогу в exe)  (win)</span>
+## <span style="color:rgb(57, 196, 239)">cmd як компелювати через cmd (прогу в exe)  (win)</span>
 зайти в директорію  
 ~~~
 cd C:\Users\Admin\Desktop\Python
@@ -35,7 +35,7 @@ pyinstaller -F test.py
 ```
 
 ---
-<span style="color:rgb(242, 235, 84)">ізольоване середовище  </span>
+## <span style="color:rgb(57, 196, 239)">ізольоване середовище  </span>
 (після обов'язково зайти - 'myenv/scripts/activate')
 ```
 python -m venv myenv
@@ -56,12 +56,12 @@ myenv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-<span style="color:rgb(57, 196, 239)">як подивитися версії пакетов</span>
+подивитися версії пакетов
 ```
 pip freeze
 ```
 
-<span style="color:rgb(57, 196, 239)">перевстановити пакет менеджерів</span>
+перевстановити пакет менеджерів
 ```
 pip install --force-reinstall -v "aiogram==2.20.0"
 ```
@@ -70,8 +70,7 @@ pip install --force-reinstall -v "aiogram==2.20.0"
 ---> [[notes/сервер google cloud та py|сервер google cloud та py]]
 
 ---
-
-<span style="color:rgb(242, 235, 84)">os.system( 'pause' ) пауза елегантна у програмі  </span>
+## <span style="color:rgb(57, 196, 239)">os.system( 'pause' ) пауза елегантна у програмі  </span>
 Закриття програми при натисканні клавіші консолі	
 ```
 import os
