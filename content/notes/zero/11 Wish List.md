@@ -54,6 +54,13 @@ free and happy [link](https://youtu.be/SbCx57gggpU?si=gNGbsemiWCjlRXCf&t=898)  ,
 
 - [ ] соус 107 грн, в міру гострий [link](https://prom.ua/ua/p1645677920-ostryj-sous-chili.html?adjust_campaign=share&adjust_adgroup=android&adjust_creative=product&utm_campaign=share_button&utm_medium=referral_link&utm_source=b2c_app_android)  
 
+EDC
+- [ ] [DIjo ніж](https://veloviva.com.ua/ua/brands/dijo/)
+- [ ] [Зажигалка Clipper mini Silver в металлическом чехле](https://rozetka.com.ua/395467377/p395467377/)  
+- [ ] [Ліхтар Armytek Zippy USB, жовтий](https://armytek.com.ua/lihtari-za-modelyamy/armytek-zippy/)
+- [ ] [Картка-мультитул Victorinox SWISSCARD LITE](https://vx.ua/uk/skladani-nozhi-victorinox/88331-skladnoy-nozh-victorinox-swisscard-lite-vx07333t3b1.html)
+- [ ] [THINKTHENDO Slim RFID Blocking Leather Wallet Credit](https://www.aliexpress.com/item/32962876662.html?srcSns=sns_Copy&spreadType=socialShare&bizType=ProductDetail&social_params=60716196168&aff_fcid=c0b243639a8d454e83ac23bd3b006932-1721543759006-06314-_Ewjg7vH&tt=MG&aff_fsk=_Ewjg7vH&aff_platform=default&sk=_Ewjg7vH&aff_trace_key=c0b243639a8d454e83ac23bd3b006932-1721543759006-06314-_Ewjg7vH&shareId=60716196168&businessType=ProductDetail&platform=AE&terminal_id=024bb9faa653426492268b2b30afa92c&afSmartRedirect=y)
+- [ ] [Ніж Olight Oknife Drever White Limited Edition](https://fonariki.com.ua/p1588057338-nozh-olight-oknife.html/)  
 
 - [x] [[notes/викрутки]]
 

@@ -1,6 +1,6 @@
 ---
 title: "сервер google cloud та py"
-Alias: google, sshm linux
+Alias: google, sshm linux, serv
 tags:
 - green/seed
 date: 2024-07-16 02:06
@@ -11,7 +11,7 @@ Links:
 [Установка Telegram бота на ХОСТИНГ (СЕРВЕР) | Настройка сервера](https://youtu.be/X7_nqy57500?si=l6s131oeW-pGuu5H&t=604) c таймінгом  
 —  
 <--- [[notes/python - cmd, компеляція|python - cmd, компеляція]]
-
+--> [[notes/py wiki|py wiki]]
 sudo adduser buonto  
 
 
