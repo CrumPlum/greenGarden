@@ -7,8 +7,6 @@ Zero-Links & Links:
 
 —  
 
-![[notes/images/Pasted image 20240725103255.png]]
-
 Посил на МОЄ ВЕЛИКЕ СХОВИЩЕ ІНФИ ПО АНІМАЦІЇ  
 [miro - ADOBE: AI, AE, Photoshop, саморозвиток](https://miro.com/app/board/uXjVMaVU7UU=/?share_link_id=262647295884)
 

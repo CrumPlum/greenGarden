@@ -29,3 +29,9 @@ Minimal theme — [[private/10 Minimal theme]]
 
 world sprint [link](https://github.com/kinabalu/obsidian-word-sprint)  
 smart connections  [link](https://github.com/brianpetro/obsidian-smart-connections)  
+[**Projects**](obsidian://show-plugin?id=obsidian-projects) - Дозволяє створити зручну таблицю для відстеження активних проектів.  
+[**Commander**](obsidian://show-plugin?id=cmdr) - Дозволяє виводити іконки швидкого доступу та окремі віджети у різні місця Obsidian. Після натискання на іконку виконується команда
+
+### English
+[spaced repetition](obsidian://show-plugin?id=obsidian-spaced-repetition)  
+[youglish](obsidian://show-plugin?id=obsidian-youglish-plugin)  
