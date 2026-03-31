@@ -2,8 +2,8 @@
 title: HOME
 enableToc: false
 ---
-home page of an animator, pythonist and knowledge gatherer
-12
+# home page of an animator, pythonist and knowledge gatherer
+
 > Робіть усе можливе, поки не дізнаєтесь краще. Тоді, коли ви будете знати краще, робіть краще.  
 
 > Our work is the presentation of our capabilities.  
