@@ -9,6 +9,9 @@ enableToc: false
 > Our work is the presentation of our capabilities.  
 > — <cite>Edward Gibbon</cite>
 
+> Стравнение - вор радости.  
+> — <cite>Теодор Рузвельт</cite>
+
 © ← → ↑ ↓  @@  =>  ✰ ★ ⚛ 🌲 🌱 🍃 🏝️  🔥 🔴 🟡 🟢 🎨 🔳 🟦 🟪 🟧
 
 ### моє портфоліо - [[notes/portfolio|portfolio]]
